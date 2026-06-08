@@ -1242,6 +1242,71 @@
     ],
     "f12025": [
       {
+        "carName": "Mercedes",
+        "carId": "220",
+        "path": "f12025/220.json"
+      },
+      {
+        "carName": "Ferrari",
+        "carId": "201",
+        "path": "f12025/221.json"
+      },
+      {
+        "carName": "Red Bull Racing",
+        "carId": "222",
+        "path": "f12025/222.json"
+      },
+      {
+        "carName": "Williams",
+        "carId": "223",
+        "path": "f12025/223.json"
+      },
+      {
+        "carName": "Aston Martin",
+        "carId": "224",
+        "path": "f12025/224.json"
+      },
+      {
+        "carName": "Alpine",
+        "carId": "225",
+        "path": "f12025/225.json"
+      },
+      {
+        "carName": "VCARB",
+        "carId": "226",
+        "path": "f12025/226.json"
+      },
+      {
+        "carName": "Haas",
+        "carId": "227",
+        "path": "f12025/227.json"
+      },
+      {
+        "carName": "McLaren",
+        "carId": "228",
+        "path": "f12025/228.json"
+      },
+      {
+        "carName": "Audi",
+        "carId": "229",
+        "path": "f12025/229.json"
+      },
+      {
+        "carName": "Cadillac",
+        "carId": "230",
+        "path": "f12025/230.json"
+      },
+      {
+        "carName": "F1 MyTeam 26",
+        "carId": "231",
+        "path": "f12025/231.json"
+      },
+      {
+        "carName": "F1 World 26",
+        "carId": "232",
+        "path": "f12025/232.json"
+      },
+      {
         "carName": "AIX Racing 24",
         "carId": "AIX Racing 24",
         "path": "f12025/aix-racing-24.json"
