@@ -1961,6 +1961,11 @@
         "path": "lmu/aston-martin-valkyrie-lmh.json"
       },
       {
+        "carName": "Aston Martin Vantage AMR LMGT",
+        "carId": "Aston Martin Vantage AMR LMGT",
+        "path": "lmu/aston-martin-vantage-amr-lmgt.json"
+      },
+      {
         "carName": "Aston Martin Vantage AMR",
         "carId": "Aston Martin Vantage AMR",
         "path": "lmu/aston-martin-vantage-amr.json"
@@ -2904,11 +2909,6 @@
         "carName": "Toyota Gazoo Racing",
         "carId": "Hyper_Toyota GR010 Custom Team 2025",
         "path": "lmu/hyper-toyota-gr010-custom-team-2025.json"
-      },
-      {
-        "carName": "Toyota Gazoo Racing 2026",
-        "carId": "Hyper_Toyota GR010 Custom Team 2026_397",
-        "path": "lmu/hyper-toyota-gr010-custom-team-2026-397.json"
       },
       {
         "carName": "Hyper_Toyota Racing 2026",
