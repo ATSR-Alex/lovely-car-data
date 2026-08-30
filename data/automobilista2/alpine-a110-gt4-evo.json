@@ -4,7 +4,7 @@
   "carClass": "GT4",
   "ledNumber": 10,
   "redlineBlinkInterval": 100,
-  "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FF00FF00","#FF00FF00"],
+  "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFFFF00","#FF00FF00","#FF00FF00"],
   "ledRpm": [
     {
       "R": [7000,6000,6200,6400,6600,6800,6800,6600,6400,6200,6000],
