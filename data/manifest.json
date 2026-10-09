@@ -336,6 +336,11 @@
         "path": "assettocorsaevo/ford-mustang-gt3.json"
       },
       {
+        "carName": "KTM X Bow GT2",
+        "carId": "KTM X Bow GT2",
+        "path": "assettocorsaevo/ktm-x-bow-gt2.json"
+      },
+      {
         "carName": "Lammborghini Huracan ST EVO2",
         "carId": "Lamborghini Huracan ST EVO2",
         "path": "assettocorsaevo/lamborghini-huracan-st-evo2.json"
